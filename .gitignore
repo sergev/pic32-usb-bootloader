@@ -1,0 +1,6 @@
+*.o
+*.dis
+*.elf
+*.map
+.deps
+machine
